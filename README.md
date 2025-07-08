@@ -59,7 +59,7 @@ crypto-Tracker\
 ### Clone the Repository
 
 ```
-git clone https://github.com/bunmizacheus/Crypto-Tracker.git
+git clone https://github.com/bunmizacheus/Cryto-Tracker
 cd crypto-tracker
 ```
 
